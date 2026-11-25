@@ -12,10 +12,10 @@ app.use(express.json());
 // 2. Application routes
 app.get('/', (req, res) => {
   res.status(200).json({
-    message: 'Welcome to the Cooking Recipes API by [YOUR_NAME_HERE]!',
+    message: 'Welcome to the Cooking Recipes API by [FATOUMATA SIBY]!',
     theme: 'Cooking Recipes',
-    studentName: '[YOUR_NAME_HERE]',
-    nim: '[YOUR_NIM_HERE]',
+    studentName: '[FATOUMATA SIBY]',
+    nim: '[20250040215]',
   });
 });
 

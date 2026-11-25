@@ -30,14 +30,14 @@ Save every screenshot inside the **`screenshots/`** folder in this project.
 - **URL:** `http://localhost:3000/`
 - **Headers / Body:** None needed.
 - **Click:** **Send**.
-- **Expected Status:** `200 OK`
+- **Expected Status:** `200 OK
 - **Expected Response:**
   ```json
   {
-    "message": "Welcome to the Cooking Recipes API by [YOUR_NAME_HERE]!",
+    "message": "Welcome to the Cooking Recipes API by [FATOUMATA SIBY]!",
     "theme": "Cooking Recipes",
-    "studentName": "[YOUR_NAME_HERE]",
-    "nim": "[YOUR_NIM_HERE]"
+    "studentName": "[FATOUMATA SIBY ]",
+    "nim": "[20250040215]"
   }
   ```
 - **Screenshot Filename:** `screenshots/01-get-home.png`

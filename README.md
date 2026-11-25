@@ -1,7 +1,7 @@
 # Cooking Recipes API
 
-- **Student Name:** `[YOUR_NAME_HERE]`
-- **NIM:** `[YOUR_NIM_HERE]`
+- **Student Name:** `[FATOUMATA SIBY]`
+- **NIM:** `[2025004021]`
 - **Course:** Pemrograman Berbasis Platform (Midterm Project)
 - **Theme:** Cooking Recipes
 
@@ -21,7 +21,7 @@ Each recipe object has:
 
 ## Before You Submit: Fill In Your Name and NIM
 
-Replace `[YOUR_NAME_HERE]` and `[YOUR_NIM_HERE]` in:
+Replace `[FATOUMATA SIBY ]` and `[20250040215]` in:
 1. `README.md` (at the top of this file)
 2. `index.js` (inside the `GET /` welcome route)
 3. `package.json` (`"author"` field)
