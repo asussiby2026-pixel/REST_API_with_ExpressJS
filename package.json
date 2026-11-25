@@ -1,0 +1,20 @@
+{
+  "name": "cooking-recipes-api",
+  "version": "1.0.0",
+  "description": "A simple Cooking Recipes REST API built with Node.js and Express 5 for the midterm project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["express", "rest-api", "recipes", "midterm"],
+  "author": "[YOUR_NAME_HERE]",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
