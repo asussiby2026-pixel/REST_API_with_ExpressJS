@@ -1,7 +1,7 @@
 # Cooking Recipes API
 
-- **Student Name:** `[FATOUMATA SIBY]`
-- **NIM:** `[2025004021]`
+- **Student Name:** `FATOUMATA SIBY`
+- **NIM:** `2025004021`
 - **Course:** Pemrograman Berbasis Platform (Midterm Project)
 - **Theme:** Cooking Recipes
 
@@ -17,16 +17,7 @@ Each recipe object has:
 - `servings` (number)
 - `difficulty` (string)
 
----
 
-## Before You Submit: Fill In Your Name and NIM
-
-Replace `[FATOUMATA SIBY ]` and `[20250040215]` in:
-1. `README.md` (at the top of this file)
-2. `index.js` (inside the `GET /` welcome route)
-3. `package.json` (`"author"` field)
-
----
 
 ## How to Install and Run
 
@@ -132,6 +123,4 @@ If the 404 handler or error handler were placed before the routes, valid routes 
 
 ---
 
-## Screenshots Reminder
 
-Test every route and error case in Postman (see `POSTMAN_GUIDE.md` for step-by-step instructions) and save a screenshot of each result inside the `screenshots/` folder before submitting your project.
